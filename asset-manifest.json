@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BaiTapGioHangReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BaiTapGioHangReact/static/js/main.79955563.chunk.js",
+    "main.js.map": "/BaiTapGioHangReact/static/js/main.79955563.chunk.js.map",
+    "runtime-main.js": "/BaiTapGioHangReact/static/js/runtime-main.60c43f68.js",
+    "runtime-main.js.map": "/BaiTapGioHangReact/static/js/runtime-main.60c43f68.js.map",
+    "static/css/2.de424728.chunk.css": "/BaiTapGioHangReact/static/css/2.de424728.chunk.css",
+    "static/js/2.e6bee8cb.chunk.js": "/BaiTapGioHangReact/static/js/2.e6bee8cb.chunk.js",
+    "static/js/2.e6bee8cb.chunk.js.map": "/BaiTapGioHangReact/static/js/2.e6bee8cb.chunk.js.map",
+    "index.html": "/BaiTapGioHangReact/index.html",
+    "precache-manifest.4e6be58a304448a39797ba58d73e7df7.js": "/BaiTapGioHangReact/precache-manifest.4e6be58a304448a39797ba58d73e7df7.js",
+    "service-worker.js": "/BaiTapGioHangReact/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/BaiTapGioHangReact/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/BaiTapGioHangReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6bee8cb.chunk.js.LICENSE.txt": "/BaiTapGioHangReact/static/js/2.e6bee8cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c43f68.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e6bee8cb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.79955563.chunk.js"
+  ]
+}
